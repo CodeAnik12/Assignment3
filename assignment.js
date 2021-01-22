@@ -1,3 +1,6 @@
+//https://github.com/CodeAnik12/Assignment3
+
+
 function InchToFeet(inch){
     var feet = inch / 12;
     return feet ;
